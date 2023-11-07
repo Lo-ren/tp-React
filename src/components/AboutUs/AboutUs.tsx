@@ -15,7 +15,7 @@ const AboutUs = () => {
             <div className="row">
                 <div className="col-md-4 col-12 mb-2">
                     <div className="card">
-                        <img className="card-img-top" src="src/assets/Img/AboutUs/pexels-thisisengineering.jpg"/>
+                        <img className="card-img-top" src="/Img/AboutUs/pexels-thisisengineering.jpg"/>
                             <div className="card-body">
                                 <div className="card-title h5">
                                     Feature 1
@@ -27,7 +27,7 @@ const AboutUs = () => {
                 </div>
                 <div className="col-md-4 col-12">
                     <div className="card">
-                        <img className="card-img-top" src="src/assets/Img/AboutUs/pexels-christina-morillo-coding.jpg"/>
+                        <img className="card-img-top" src="/Img/AboutUs/pexels-christina-morillo-coding.jpg"/>
                             <div className="card-body">
                                 <div className="card-title h5">
                                     Feature 2
@@ -39,7 +39,7 @@ const AboutUs = () => {
                 </div>
                 <div className="col-md-4 col-12">
                     <div className="card">
-                        <img className="card-img-top" src="src/assets/Img/AboutUs/pexels-cottonbro-studio.jpg"/>
+                        <img className="card-img-top" src="/Img/AboutUs/pexels-cottonbro-studio.jpg"/>
                             <div className="card-body">
                                 <div className="card-title h5">
                                     Feature 3
